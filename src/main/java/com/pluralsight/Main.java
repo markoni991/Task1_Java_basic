@@ -1,16 +1,9 @@
 package com.pluralsight;
 
-import org.apache.log4j.ConsoleAppender;
-
-import java.io.FileInputStream;
-import java.io.IOException;
 import java.util.Arrays;
-import java.util.Properties;
 import java.util.Scanner;
 import java.util.logging.*;
 import java.util.logging.Logger;
-
-
 
 public class Main {
 
